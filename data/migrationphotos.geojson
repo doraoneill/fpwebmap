@@ -8,12 +8,12 @@
        "coordinates":  [ -7.816172,27.498122 ]
     },
     "properties": {
-    "Unique Identifier":101,
+    "UI":101,
     "Photographer":"Farouk Batiche",
     "Date":"3/4/2016",
     "Location":"Samara refugee camp",
     "Description":"A Sahrawi refugee woman walks amid the rubble of which were destroyed during heavy rain last year at the Samara refugee camp, west of the Algerian city of Tindouf in the disputed territory of Western Sahara, on March 4, 2016. ",
-    "image url":"https://media.gettyimages.com/photos/sahrawi-refugee-woman-walks-amid-the-rubble-of-which-were-destroyed-picture-id513715520?s=2048x2048"
+    "image_url":"https://media.gettyimages.com/photos/sahrawi-refugee-woman-walks-amid-the-rubble-of-which-were-destroyed-picture-id513715520?s=2048x2048"
     }
   },
   {
@@ -23,12 +23,12 @@
        "coordinates":  [ -8.011512,27.515085 ]
     },
     "properties": {
-    "Unique Identifier":102,
+    "UI":102,
     "Photographer":"Farouk Batiche",
     "Date":"3/3/2016",
     "Location":"Boujdour refugee camp",
     "Description":"Young Sahrawi refugees stand on the rubble of a house which was destroyed during heavy rain last year at the Boujdour refugee camp, near the Algerian city of Tindouf in the disputed territory of Western Sahara, on March 3, 2016.",
-    "image url":"https://media.gettyimages.com/photos/young-sahrawi-refugees-stand-on-the-rubble-of-a-house-which-was-picture-id513708912?s=2048x2048"
+    "image_url":"https://media.gettyimages.com/photos/young-sahrawi-refugees-stand-on-the-rubble-of-a-house-which-was-picture-id513708912?s=2048x2048"
     }
   },
   {
@@ -38,12 +38,12 @@
        "coordinates":  [ 2.841339,36.714078 ]
     },
     "properties": {
-    "Unique Identifier":103,
+    "UI":103,
     "Photographer":"Farouk Batiche",
     "Date":"6/28/2018",
     "Location":"Refugee camp Zeralda region",
     "Description":"African migrants who were arrested in Algeria while illegally attempting to get to Europe, are seen in the refugee camp located in the Zeralda region, suburb of the city of Algiers in northern Algeria after Algerian government has started the process of expelling thousands of migrants, on June 28, 2018. ",
-    "image url":"https://media.gettyimages.com/photos/african-migrants-who-were-arrested-in-algeria-while-illegally-to-get-picture-id986992908?s=2048x2048"
+    "image_url":"https://media.gettyimages.com/photos/african-migrants-who-were-arrested-in-algeria-while-illegally-to-get-picture-id986992908?s=2048x2048"
     }
   },
   {
@@ -53,12 +53,12 @@
        "coordinates":  [ -7.823445,27.491522 ]
     },
     "properties": {
-    "Unique Identifier":104,
+    "UI":104,
     "Photographer":"Farouk Batiche",
     "Date":"2/25/2016",
     "Location":"Smara refugee camp",
     "Description":"Sahrawi children pose for a picture in the Smara refugee camp in Algeria's Tindouf province on February 25, 2016.",
-    "image url":"https://media.gettyimages.com/photos/sahrawi-children-pose-for-a-picture-in-the-smara-refugee-camp-in-picture-id512384902?s=2048x2048"
+    "image_url":"https://media.gettyimages.com/photos/sahrawi-children-pose-for-a-picture-in-the-smara-refugee-camp-in-picture-id512384902?s=2048x2048"
     }
   },
   {
@@ -68,12 +68,12 @@
        "coordinates":  [ -7.832158,27.490609 ]
     },
     "properties": {
-    "Unique Identifier":105,
+    "UI":105,
     "Photographer":"Farouk Batiche",
     "Date":"3/4/2016",
     "Location":"Smara refugee camp",
     "Description":"A Sahrawi refugee man rebuilds a house which was destroyed during heavy rain last year at the Samara refugee camp, west of the Algerian city of Tindouf in the disputed territory of Western Sahara, on March 4, 2016.",
-    "image url":"https://media.gettyimages.com/photos/sahrawi-refugee-man-rebuilds-a-house-which-was-destroyed-during-heavy-picture-id513715498?s=2048x2048"
+    "image_url":"https://media.gettyimages.com/photos/sahrawi-refugee-man-rebuilds-a-house-which-was-destroyed-during-heavy-picture-id513715498?s=2048x2048"
     }
   },
   {
@@ -83,12 +83,12 @@
        "coordinates":  [ -7.835512,27.493425 ]
     },
     "properties": {
-    "Unique Identifier":106,
+    "UI":106,
     "Photographer":"Zohra Bensemra",
     "Date":"3/2/2016",
     "Location":"Smara refugee camp",
     "Description":"Indigenous Sahrawi girls play near their tent in a refugee camp of Al Smara in Tindouf, southern Algeria March 2, 2016.",
-    "image url":"https://static.reuters.com/resources/r/?m=02&d=20160304&t=2&i=1122394153&r=LYNXNPEC2318S&w=640"
+    "image_url":"https://static.reuters.com/resources/r/?m=02&d=20160304&t=2&i=1122394153&r=LYNXNPEC2318S&w=640"
     }
   },
   {
@@ -98,12 +98,12 @@
        "coordinates":  [ -8.016329,27.512507 ]
     },
     "properties": {
-    "Unique Identifier":107,
+    "UI":107,
     "Photographer":"Zohra Bensemra",
     "Date":"3/3/2016",
     "Location":"Boujdour refugee camp",
     "Description":"An indigenous Sahrawi teacher attends a class at a school in a refugee camp of Boudjdour in Tindouf, southern Algeria March 3, 2016.",
-    "image url":"https://static.reuters.com/resources/r/?m=02&d=20160304&t=2&i=1122394158&r=LYNXNPEC2318U&w=640"
+    "image_url":"https://static.reuters.com/resources/r/?m=02&d=20160304&t=2&i=1122394158&r=LYNXNPEC2318U&w=640"
     }
   },
   {
@@ -113,12 +113,12 @@
        "coordinates":  [ 3.089202,36.719858 ]
     },
     "properties": {
-    "Unique Identifier":108,
+    "UI":108,
     "Photographer":"Camille Millerand",
     "Date":"2018",
     "Location":"Derwisha",
     "Description":"\"Derwisha is a district of Algiers. Here, a house, still under construction, is a place of passage for migrants on their way to Europe.”",
-    "image url":"https://images.squarespace-cdn.com/content/v1/51f68a8fe4b049481dbc956e/1496999252066-YBM9M9PKKRWY5HPB7M7Q/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/05_IMG_0709.jpg?format=2500w"
+    "image_url":"https://images.squarespace-cdn.com/content/v1/51f68a8fe4b049481dbc956e/1496999252066-YBM9M9PKKRWY5HPB7M7Q/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/05_IMG_0709.jpg?format=2500w"
     }
   },
   {
@@ -128,12 +128,12 @@
        "coordinates":  [ 3.089202,36.719858 ]
     },
     "properties": {
-    "Unique Identifier":109,
+    "UI":109,
     "Photographer":"Camille Millerand",
     "Date":"2018",
     "Location":"Derwisha",
     "Description":"\"Derwisha is a district of Algiers. Here, a house, still under construction, is a place of passage for migrants on their way to Europe.”",
-    "image url":"https://images.squarespace-cdn.com/content/v1/51f68a8fe4b049481dbc956e/1496999255231-C6U2YE99Y3QCMDCPYCH1/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/07_13%C2%A9MILLERAND-IMG_6440.jpg?format=2500w"
+    "image_url":"https://images.squarespace-cdn.com/content/v1/51f68a8fe4b049481dbc956e/1496999255231-C6U2YE99Y3QCMDCPYCH1/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/07_13%C2%A9MILLERAND-IMG_6440.jpg?format=2500w"
     }
   },
   {
@@ -143,12 +143,12 @@
        "coordinates":  [ -8.021589,27.516244 ]
     },
     "properties": {
-    "Unique Identifier":110,
+    "UI":110,
     "Photographer":"Fethi Sahraoui",
     "Date":"2/17",
     "Location":"Boujdour refugee camp",
     "Description":"From photo series ‘Mercy Island’",
-    "image url":"https://img1.wsimg.com/isteam/ip/b1480316-3e99-4104-9312-33aaa4f3a0d9/14-0001.JPG/:/rs=w:2600,h:1600"
+    "image_url":"https://img1.wsimg.com/isteam/ip/b1480316-3e99-4104-9312-33aaa4f3a0d9/14-0001.JPG/:/rs=w:2600,h:1600"
     }
   },
   {
@@ -158,12 +158,12 @@
        "coordinates":  [ 3.174872,30.711143 ]
     },
     "properties": {
-    "Unique Identifier":111,
+    "UI":111,
     "Photographer":"Hassan Ferhani",
     "Date":"2019",
     "Location":"El Ménia, Route Nationale 1",
     "Description":"Still from documentary film ‘143 Sahara Street’",
-    "image url":"https://medias.unifrance.org/medias/125/121/227709/format_page/143-rue-du-desert.jpg"
+    "image_url":"https://medias.unifrance.org/medias/125/121/227709/format_page/143-rue-du-desert.jpg"
     }
   },
   {
@@ -173,12 +173,12 @@
        "coordinates":  [ 5.530146,22.788457 ]
     },
     "properties": {
-    "Unique Identifier":112,
+    "UI":112,
     "Photographer":"Kays Djilali",
     "Date":"2006",
     "Location":"Tamanrasset",
     "Description":"Still from documentary film ‘Le piège’",
-    "image url":"https://vimeo.com/6569910"
+    "image_url":"https://vimeo.com/6569910"
     }
   },
   {
@@ -188,12 +188,12 @@
        "coordinates":  [ 7.755353,36.900755 ]
     },
     "properties": {
-    "Unique Identifier":113,
+    "UI":113,
     "Photographer":"Bruno Boudjelal",
     "Date":"2013",
     "Location":"Annaba",
     "Description":"Harraga is a word in north-african Arabic that means “to burn”.  That is what the young who leave the banks of Magrhreb, who burn the road, who burn their identity papers trying to reach Europe in their rickety boats are called. From Algeria, they leave essentially from two regions, Annaba from the east to reach Sardinia, and Oran from the west to reach Spain. These photographs were taken along the coasts of these two regions where I took a series of landscapes of the places where the “Harraga” leave from.",
-    "image url":"http://thomasdoubliez.com/fr/wp-content/uploads/2013/09/bruno-expo002.jpg"
+    "image_url":"http://thomasdoubliez.com/fr/wp-content/uploads/2013/09/bruno-expo002.jpg"
     }
   },
   {
@@ -203,12 +203,12 @@
        "coordinates":  [ -0.649373,35.706377 ]
     },
     "properties": {
-    "Unique Identifier":114,
+    "UI":114,
     "Photographer":"Bruno Boudjelal",
     "Date":"2013",
     "Location":"Oran",
     "Description":"Harraga is a word in north-african Arabic that means “to burn”.  That is what the young who leave the banks of Magrhreb, who burn the road, who burn their identity papers trying to reach Europe in their rickety boats are called. From Algeria, they leave essentially from two regions, Annaba from the east to reach Sardinia, and Oran from the west to reach Spain. These photographs were taken along the coasts of these two regions where I took a series of landscapes of the places where the “Harraga” leave from.",
-    "image url":"http://thomasdoubliez.com/fr/wp-content/uploads/2013/09/bruno-expo003.jpg"
+    "image_url":"http://thomasdoubliez.com/fr/wp-content/uploads/2013/09/bruno-expo003.jpg"
     }
   },
   {
@@ -218,12 +218,12 @@
        "coordinates":  [ -1.735137,34.848255 ]
     },
     "properties": {
-    "Unique Identifier":115,
+    "UI":115,
     "Photographer":"Mohamed Fouad Semmache",
     "Date":"2/28/2017",
     "Location":"Maghnia",
     "Description":"From the photo series ‘Waiting’",
-    "image url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/82831a88308593.5dd2bd9c4df31.jpg"
+    "image_url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/82831a88308593.5dd2bd9c4df31.jpg"
     }
   },
   {
@@ -233,12 +233,12 @@
        "coordinates":  [ -1.727128,34.848616 ]
     },
     "properties": {
-    "Unique Identifier":116,
+    "UI":116,
     "Photographer":"Mohamed Fouad Semmache",
     "Date":"6/14/2017",
     "Location":"Maghnia",
     "Description":"From the photo series ‘Waiting’",
-    "image url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1c37b388308593.5dd2bd9c4a596.jpg"
+    "image_url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1c37b388308593.5dd2bd9c4a596.jpg"
     }
   },
   {
@@ -248,12 +248,12 @@
        "coordinates":  [ 5.326359,31.967018 ]
     },
     "properties": {
-    "Unique Identifier":17,
+    "UI":117,
     "Photographer":"Mohamed El Amine",
     "Date":"4/19/2021",
     "Location":"Ouargla",
     "Description":"Street bikers of \"دقيش\" square / During the day walking around the K’sar of Ouargla / You either find it breezy and empty / Or find some kids playing at the different spaces in the middle of this big labyrinth …/… Ouargla is more than a desert / Or a forgotten history",
-    "image url":"https://www.instagram.com/p/CNvC1n0FvHw/"
+    "image_url":"https://www.instagram.com/p/CNvC1n0FvHw/"
     }
   },
   {
@@ -263,12 +263,12 @@
        "coordinates":  [ 5.774689,19.574858 ]
     },
     "properties": {
-    "Unique Identifier":18,
+    "UI":118,
     "Photographer":"Henri-Jacques Bourgeas",
     "Date":"2011",
     "Location":"In Guezzam",
     "Description":"Still from documentary film ‘Nationale 1’",
-    "image url":"https://vimeo.com/ondemand/nationale1"
+    "image_url":"https://vimeo.com/ondemand/nationale1"
     }
   }
 ]

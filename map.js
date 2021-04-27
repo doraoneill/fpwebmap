@@ -36,3 +36,36 @@ map.on('load',function(){
   
   
   });
+
+
+map.on('click', 'migrationphotos', function(e) {
+  
+    var coordinates = e.features[0].geometry.coordinates.slice();
+    
+    var image_url = e.features[0].properties.image_url;
+    
+    var Description = e.features[0].properties.Description;
+
+    var Location = e.features[0].properties.Location;
+
+    new mapboxgl.Popup()
+    .setLngLat(coordinates)
+    .setHTML(e.features[0].properties.Location + ', ' + e.features[0].properties.image_url + ', ' + ' (' + e.features[0].properties.Description + ')')
+    .addTo(map);
+
+
+
+    
+  });
+    
+  
+  map.on('mouseenter', 'migrationphotos', function() {
+    map.getCanvas().style.cursor = 'pointer';
+  });
+    
+
+  map.on('mouseleave', 'migrationphotos', function() {
+    map.getCanvas().style.cursor = '';
+  });
+
+  
