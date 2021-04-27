@@ -9,8 +9,16 @@ body, html {
     top: 0;
     bottom: 0;
     width: 100%;
+
 }
 
+    .mapboxgl-popup {
+        max-width: 400px;
+    }
+    .mapboxgl-popup-content {
+        text-align: left;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
 #info {
     position: absolute;
     top: 0;

@@ -53,8 +53,6 @@ map.on('click', 'migrationphotos', function(e) {
     .setHTML(e.features[0].properties.Location + ', ' + e.features[0].properties.image_url + ', ' + ' (' + e.features[0].properties.Description + ')')
     .addTo(map);
 
-
-
     
   });
     
